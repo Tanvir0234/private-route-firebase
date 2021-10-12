@@ -1,0 +1,14 @@
+.menu{
+  padding-left: 27%;
+}
+
+.header-items {
+    text-decoration: none;
+    color: #fff;
+    margin-top: 15px;
+    padding: 10px;
+    font-size: 22px;
+    list-style: none;
+    font-weight: 500;
+    cursor: pointer;
+  }
